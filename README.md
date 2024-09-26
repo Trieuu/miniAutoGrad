@@ -10,4 +10,6 @@ You can find __Andrej Karpathy__ in the below link:
 
 In this repo, what i have done so far is to reconstruct the structure of the Lecture of Andrej about this topic and adding some of my explaination in the __Mini AutoGrad__ notebook. Beside that , I also make some modify on the __Value__ class (which you will see in the repo engine.py file) for a better visualizarion purpose. Lastly, I also test the Neural_Network on other dataset which is the Iris datase.
 
+https://github.com/Trieuu/miniAutoGrad/blob/master/image/iris_classification.png
+
 Repo structure
